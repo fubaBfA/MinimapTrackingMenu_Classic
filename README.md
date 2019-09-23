@@ -1,4 +1,4 @@
-This AddOn opens a Menu if you **Right-Click** the Minimap, with all available Tracking Spells your Character know.
+This AddOn opens a Menu if you **Right-Click** the Minimap, with all available Tracking Spells your Character know.  
 Just **Right-Click** the Minimap and the Menu will appear!
 
 Herb and Ore Tracking:
