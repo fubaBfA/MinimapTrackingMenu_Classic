@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: Minimap Tracking Menu Classic
+## Author: fuba
+## Version: 1.0
+## Notes: Right-Click the Minimap opens a Menu with Available Tracking Spells
+
+MinimapTrackingMenu.lua
