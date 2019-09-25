@@ -3,6 +3,7 @@ This Menu contains all the available Tracking Spells your Character know.
 
 This AddOn also Re-Enables last used Tracking Spell after your Character has died.
 
+![Preview (Original Interface)](https://github.com/fubaBfA/MinimapTrackingMenu_Classic/blob/master/preview.png)
 
 **Tracking Spells are the following**  
   
