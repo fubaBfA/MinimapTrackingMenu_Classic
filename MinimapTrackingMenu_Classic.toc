@@ -1,6 +1,6 @@
 ## Interface: 11302
 ## Title: Minimap Tracking Menu Classic
 ## Author: fuba
-## Version: 1.1
+## Version: 11302.01
 
 MinimapTrackingMenu.lua
