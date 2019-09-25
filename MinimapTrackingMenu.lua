@@ -1,9 +1,7 @@
+-- This AddOn is inspired by "TrackingEye" and "Tukui Tracking Menu" and of course World of Warcraft Retail itself! ;)
+
 local AddOnName, AddOn = ...
-
--- This AddOn is inspired by "TrackingEye" and "Tukui Tracking Menu"
-
 local MinimapTrackingMenu = CreateFrame('Frame')
-
 local MiniMapTrackingFrame = _G.MiniMapTrackingFrame
 local Minimap = _G.Minimap
 
