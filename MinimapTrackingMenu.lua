@@ -151,6 +151,34 @@ function AddOn:OnInitialize()
       AddOn:CancelTracking()
     end
   })
+	
+	table.insert(AddOn.MenuButtons, 2, {
+    _spellID = "seperator",
+		text = "",
+		hasArrow = false,
+		dist = 0,
+		isTitle = true,
+		isUninteractable = true,
+		notCheckable = true,
+		iconOnly = true,
+		icon = "Interface\\Common\\UI-TooltipDivider-Transparent",
+		tCoordLeft = 0,
+		tCoordRight = 1,
+		tCoordTop = 0,
+		tCoordBottom = 1,
+		tSizeX = 0,
+		tSizeY = 8,
+		tFitDropDownSizeX = true,
+		iconInfo = {
+			tCoordLeft = 0,
+			tCoordRight = 1,
+			tCoordTop = 0,
+			tCoordBottom = 1,
+			tSizeX = 0,
+			tSizeY = 8,
+			tFitDropDownSizeX = true
+		},
+  })
 
   if (not ElvUI) then
     MiniMapTrackingFrame:HookScript("OnHide", function()
@@ -189,8 +217,10 @@ function AddOn:OpenMenu(frame, left)
   for i = 1, #AddOn.MenuButtons do
     local MenuButton = AddOn.MenuButtons[i]
     if MenuButton._spellID == "none" then
-      MenuButton.checked = not CurrentTexture;
+      MenuButton.checked = not CurrentTexture
       table.insert(VisibleButtons, MenuButton)
+		elseif MenuButton._spellID == "seperator" then
+			table.insert(VisibleButtons, MenuButton)
     else
       if IsPlayerSpell(MenuButton._spellID) then
         MenuButton.checked = MenuButton.icon == CurrentTexture
