@@ -2,5 +2,7 @@
 ## Title: Minimap Tracking Menu Classic
 ## Author: fuba
 ## Version: 11302.01
+## Notes: Retail Style Tracking Menu for Classic
+## SavedVariables: MinimapTrackingMenuDB
 
 MinimapTrackingMenu.lua
