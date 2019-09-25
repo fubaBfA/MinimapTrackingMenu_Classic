@@ -1,4 +1,4 @@
-This AddOn opens a Menu if you Right-Click the Minimap itself or Left-Click the Minimap Tracking Button in Classic.  
+This AddOn opens a Tracking Menu if you Right-Click the Minimap itself or Left-Click the Minimap Tracking Button in Classic.  
 This Menu contains all the available Tracking Spells your Character know.  
 
 **Tracking Spells are the following**  
