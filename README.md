@@ -1,7 +1,8 @@
 This AddOn opens a Menu if you Right-Click the Minimap itself or Left-Click the Minimap Tracking Button in Classic.  
 This Menu contains all the available Tracking Spells your Character know.  
 
-**Tracking Spells are the following**
+**Tracking Spells are the following**  
+  
 Herb and Ore Tracking:
 + (Herbalism) Find Herbs (SpellID: 2383)
 + (Mining) Find Minerals (SpellID: 2580)
