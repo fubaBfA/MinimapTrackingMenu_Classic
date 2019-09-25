@@ -1,0 +1,8 @@
+enable-nolib-creation: no
+
+ignore:
+  - README.md
+  - CHANGES.txt
+  - LICENSE.md
+
+license-output: LICENSE.txt
