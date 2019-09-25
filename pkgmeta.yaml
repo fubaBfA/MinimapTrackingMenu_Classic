@@ -4,5 +4,6 @@ ignore:
   - README.md
   - CHANGES.txt
   - LICENSE.md
+  - preview.png
 
 license-output: LICENSE.txt
