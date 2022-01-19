@@ -1,7 +1,7 @@
-## Interface: 11302
+## Interface: 11401
 ## Title: Minimap Tracking Menu Classic
 ## Author: fuba
-## Version: 11302.01
+## Version: @project-version@
 ## Notes: Retail Style Tracking Menu for Classic
 ## SavedVariables: MinimapTrackingMenuDB
 
