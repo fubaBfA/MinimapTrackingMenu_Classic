@@ -1,8 +1,11 @@
-## Interface: 11404
+## Interface: 11505
 ## Title: Minimap Tracking Menu Classic
 ## Author: fuba
 ## Version: @project-version@
 ## Notes: Retail Style Tracking Menu for Classic
+## IconTexture: Interface\AddOns\MinimapTrackingMenu_Classic\fubaLogo
 ## SavedVariables: MinimapTrackingMenuDB
+
+## X-Curse-Project-ID: 344161
 
 MinimapTrackingMenu.lua
